@@ -12,3 +12,6 @@ Kaggle: Water quality dataset as available on Kaggle:
 # About Project
 
 In this project, I worked with a dataset on water quality to predict whether water is potable or not. First, I cleaned the data by handling any missing values, filling them in with the median to avoid bias. Then, I normalized the data to ensure the models perform optimally. I tested multiple machine learning models including Logistic Regression, Naive Bayes, SVM, Decision Trees, and Random Forest to make accurate predictions. To better understand the data, I also created visualizations such as histograms and scatter plots, which helped in analyzing the relationships between different features. This approach enabled me to build a reliable model to predict water potability.
+
+# Future work
+Future enhancements could involve incorporating real-time sensor data for continuous monitoring, improving the accuracy of predictions with more diverse datasets, and expanding the model to consider seasonal and regional variations. Additionally, integrating a user-friendly interface for easy access to water quality reports could make the system more accessible to communities and environmental organizations.
