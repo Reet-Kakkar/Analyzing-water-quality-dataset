@@ -4,3 +4,7 @@ This project analyzes water quality data to assess parameters like pH, hardness,
 
 # Problem Statement
 Many communities still face challenges with water quality, which poses health risks and hinders sustainable development. Contaminants in water are impacting its potability, making safe drinking water scarce. Addressing these issues requires analyzing water quality data and implementing targeted interventions to improve water treatment, mitigate health risks, and contribute to achieving SDG 6: Clean Water and Sanitation.
+
+#Dataset link: 
+Kaggle: Water quality dataset as available on Kaggle:
+[https://www.kaggle.com/datasets/uom190346a/water-quality-and-potability](url)
